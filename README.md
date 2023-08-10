@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structures and graphic designing.**
 
-- 📫 How to reach me **m.jawwadkhan777@gmail.com**
+- 📫 Email: **m.jawwadkhan777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
