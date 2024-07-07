@@ -1,10 +1,10 @@
 ![logo](https://github.com/JawwadKhan777/JawwadKhan777/blob/main/About%20me.jpg)
-<h1 align="center">Hi 👋, Here is Muhammad Jawwad Khan Sherwani</h1>
-<h3 align="center">An enthusiastic developer/graphic designer from Pakistan.</h3>
+<h1 align="center">Hi 👋, Here is Muhammad Jawwad Khan</h1>
+<h3 align="center">An enthusiastic, motivated and dedicated student with a passion for continuous learning. Seeking opportunities to apply my strong work ethic and maximize my potential. Passionate about continuous learning and growth.</h3>
 <img align="right" alt="working" width="300" src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawwadkhan777&label=Profile%20views&color=0e75b6&style=flat" alt="jawwadkhan777" /> </p>
 
-- 🌱 I’m currently learning **Web Development and graphic designing.**
+- 🌱 I’m currently learning **Java Development.**
 - 📫 Email: **m.jawwadkhan777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
