@@ -1,4 +1,4 @@
-![logo](https://github.com/JawwadKhan777/JawwadKhan777/blob/main/About%20me.jpg)
+![logo](https://github.com/jawwadkhan777/jawwadkhan777/blob/main/About%20me.png)
 <h1 align="center">Hi 👋, Here is Muhammad Jawwad Khan</h1>
 <h3 align="center">An enthusiastic, motivated and dedicated student with a passion for continuous learning. Seeking opportunities to apply my strong work ethic and maximize my potential. Passionate about continuous learning and growth.</h3>
 <img align="right" alt="working" width="300" src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif">
