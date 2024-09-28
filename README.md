@@ -4,7 +4,7 @@
 <img align="right" alt="working" width="300" src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawwadkhan777&label=Profile%20views&color=0e75b6&style=flat" alt="jawwadkhan777" /> </p>
 
-- 🌱 I’m currently learning **Apring Framework** and **Project Management**
+- 🌱 I’m currently learning **Spring Framework** and **Project Management**
 - 📫 Email: **m.jawwadkhan777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
