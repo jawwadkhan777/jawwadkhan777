@@ -1,12 +1,13 @@
 ![logo](https://github.com/jawwadkhan777/jawwadkhan777/blob/main/About%20me.png)
 # 💫 About Me:
-🔭 I’m currently working on Spring Boot project. <br>🤝 I’m actively seeking for internship on Java Development, Frontend Development and Project Management.<br>🌱 I’m currently learning Spring Framework and Project Management skills.<br>💬 Contact on email: m.jawwadkhan777@gmail.com
+🔭 I’m currently working on Spring Boot and React projects. <br>🤝 I’m actively seeking for internship on Java Development, Web development and Project Management.<br>🌱 I’m currently learning Spring Boot Framework, SQL and Artificial Intelligence skills.<br>💬 Contact on email: m.jawwadkhan777@gmail.com
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jawwadkhan777)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jawwad777) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jawwadkhan_777)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jawwadkhan_777)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jawwadkhan777)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
