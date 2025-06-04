@@ -1,4 +1,4 @@
-![logo](https://github.com/jawwadkhan777/jawwadkhan777/blob/main/About%20me.png)
+![logo](https://github.com/jawwadkhan777/jawwadkhan777/blob/main/banner.png) 
 # 💫 About Me:
 🔭 I’m currently working on Spring Boot and React projects. <br>🤝 I’m actively seeking for internship on Java Development, Web development and Project Management.<br>🌱 I’m currently learning Full Stack Web Development, Spring Boot Framework, SQL and Artificial Intelligence skills.<br>💬 Contact on email: m.jawwadkhan777@gmail.com
 
