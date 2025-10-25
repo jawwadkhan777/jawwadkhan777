@@ -1,6 +1,6 @@
 ![logo](https://github.com/jawwadkhan777/jawwadkhan777/blob/main/banner.png) 
 # 💫 About Me:
-🔭 I’m currently working on Next.js projects. <br>🤝 I’m actively seeking for internship on Web development and Artificial Intelligence.<br>🌱 I’m currently learning Full Stack Web Development, SQL and Artificial Intelligence skills.<br>💬 Contact on email: m.jawwadkhan777@gmail.com
+🔭 I’m currently working on FYP. <br>🤝 I’m actively seeking opportunity/internship on Full-stack development and Artificial Intelligence.<br>🌱 I’m currently learning Full Stack Development and Artificial Intelligence skills.<br>💬 Contact on email: m.jawwadkhan777@gmail.com
 
 
 ## 🌐 Socials:
