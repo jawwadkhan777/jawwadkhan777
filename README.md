@@ -1,6 +1,6 @@
 ![logo](https://github.com/jawwadkhan777/jawwadkhan777/blob/main/banner.png) 
 # 💫 About Me:
-🔭 I’m currently working on FYP. <br>🤝 I’m actively seeking opportunity/internship on Full-stack development and Artificial Intelligence.<br>🌱 I’m currently learning Full Stack Development and Artificial Intelligence skills.<br>💬 Contact on email: m.jawwadkhan777@gmail.com
+🎓 BSCS Graduate from University of Karachi (UBIT).<br>🔭 I’m currently working as a Junior Software Developer at Techmile Solutions. <br>💬 Contact on email: m.jawwadkhan777@gmail.com
 
 
 ## 🌐 Socials:
