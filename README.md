@@ -1,4 +1,4 @@
-![logo](https://github.com/jawwadkhan777/jawwadkhan777/blob/main/banner.png) 
+![logo](https://github.com/jawwadkhan777/jawwadkhan777/blob/main/banner1.png) 
 # 💫 About Me:
 🎓 BSCS Graduate from University of Karachi (UBIT).<br>🔭 I’m currently working as a Junior Software Developer at Techmile Solutions. <br>💬 Contact on email: m.jawwadkhan777@gmail.com
 
