@@ -1,6 +1,6 @@
-![logo](https://github.com/jawwadkhan777/jawwadkhan777/blob/main/banner.png) 
+![logo](https://github.com/jawwadkhan777/jawwadkhan777/blob/main/banner-2.png) 
 # 💫 About Me:
-🎓 CS Graduate from University of Karachi (UBIT).<br>🔭 I’m currently working as a Junior Software Developer at Fixels Media LLC. <br>💬 Contact on email: m.jawwadkhan777@gmail.com
+🎓 CS Graduate from University of Karachi (UBIT).<br>🔭 I’m currently working as a Junior Software Engineer at Fixels Media LLC. <br>💬 Contact on email: m.jawwadkhan777@gmail.com
 
 
 ## 🌐 Socials:
